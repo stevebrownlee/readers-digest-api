@@ -1,0 +1,29 @@
+[
+    {
+        "model": "digestapi.bookcategory",
+        "pk": 1,
+        "fields": {
+            "book": 1,
+            "category": 1,
+            "assigned_timestamp": "2023-06-01 00:00:00"
+        }
+    },
+    {
+        "model": "digestapi.bookcategory",
+        "pk": 2,
+        "fields": {
+            "book": 1,
+            "category": 2,
+            "assigned_timestamp": "2023-06-01 00:00:00"
+        }
+    },
+    {
+        "model": "digestapi.bookcategory",
+        "pk": 3,
+        "fields": {
+            "book": 2,
+            "category": 3,
+            "assigned_timestamp": "2023-06-01 00:00:00"
+        }
+    }
+]

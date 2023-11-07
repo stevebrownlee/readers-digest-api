@@ -1,0 +1,46 @@
+[
+    {
+        "model": "digestapi.review",
+        "pk": 1,
+        "fields": {
+            "book": 1,
+            "user": 1,
+            "rating": 5,
+            "comment": "Amazing book!",
+            "date_posted": "2023-01-01T12:00:00Z"
+        }
+    },
+    {
+        "model": "digestapi.review",
+        "pk": 2,
+        "fields": {
+            "book": 2,
+            "user": 2,
+            "rating": 4,
+            "comment": "Great read!",
+            "date_posted": "2023-01-10T14:00:00Z"
+        }
+    },
+    {
+        "model": "digestapi.review",
+        "pk": 3,
+        "fields": {
+            "book": 2,
+            "user": 1,
+            "rating": 4,
+            "comment": "Couldn't put it down!",
+            "date_posted": "2023-01-10T14:00:00Z"
+        }
+    },
+    {
+        "model": "digestapi.review",
+        "pk": 4,
+        "fields": {
+            "book": 1,
+            "user": 2,
+            "rating": 2,
+            "comment": "Kinda boring.",
+            "date_posted": "2023-01-10T14:00:00Z"
+        }
+    }
+]

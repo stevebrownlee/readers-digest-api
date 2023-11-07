@@ -1,0 +1,37 @@
+[
+    {
+        "model": "digestapi.category",
+        "pk": 1,
+        "fields": {
+            "name": "Adventure"
+        }
+    },
+    {
+        "model": "digestapi.category",
+        "pk": 2,
+        "fields": {
+            "name": "Fantasy"
+        }
+    },
+    {
+        "model": "digestapi.category",
+        "pk": 3,
+        "fields": {
+            "name": "Science Fiction"
+        }
+    },
+    {
+        "model": "digestapi.category",
+        "pk": 4,
+        "fields": {
+            "name": "Humor"
+        }
+    },
+    {
+        "model": "digestapi.category",
+        "pk": 5,
+        "fields": {
+            "name": "History"
+        }
+    }
+]
